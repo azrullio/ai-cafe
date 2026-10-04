@@ -1,0 +1,614 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-04T08:22:20Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4189020445,
+  "lat": -7.2415339,
+  "lon": 112.7446038,
+  "tags": {
+    "addr:city": "Surabaya",
+    "addr:postcode": "60161",
+    "addr:street": "Jl. Bunguran ,Pasar Atom Lantai 3 Tahap 1, BA-76",
+    "name": "Atom Cafe",
+    "name:en": "Atom Cafe",
+    "shop": "mall"
+  }
+},
+{
+  "type": "node",
+  "id": 4193145561,
+  "lat": -7.2750200,
+  "lon": 112.7912564,
+  "tags": {
+    "addr:city": "Keputih, Sukolilo, Surabaya",
+    "addr:postcode": "60112",
+    "addr:street": "Tangkis Mulyorejo Baru no.69",
+    "name": "Fotokopi + Print TMB",
+    "shop": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4520374028,
+  "lat": -7.2913815,
+  "lon": 112.7183972,
+  "tags": {
+    "addr:full": "mayjen sungkono",
+    "amenity": "bank",
+    "name": "Bank Bukopin"
+  }
+},
+{
+  "type": "node",
+  "id": 5106761929,
+  "lat": -7.2834714,
+  "lon": 112.6906158,
+  "tags": {
+    "name": "Cafe glass",
+    "shop": "kitchen"
+  }
+},
+{
+  "type": "node",
+  "id": 6422282317,
+  "lat": -7.3129609,
+  "lon": 112.7665288,
+  "tags": {
+    "addr:city": "Kota Surabaya, East Java, Indonesia",
+    "addr:postcode": "60299",
+    "addr:street": "Jalan Panjangjiwo Permai Selatan",
+    "leisure": "amusement_arcade",
+    "name": "X Gate Cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 7118651186,
+  "lat": -7.2590919,
+  "lon": 112.7421487,
+  "tags": {
+    "addr:housenumber": "20",
+    "addr:street": "Jalan Genteng Besar",
+    "name": "Toko Kopi Genteng",
+    "opening_hours": "Mo-Sa 07:00-16:00",
+    "shop": "variety_store"
+  }
+},
+{
+  "type": "node",
+  "id": 7129726385,
+  "lat": -7.2625534,
+  "lon": 112.6632726,
+  "tags": {
+    "addr:street": "Jalan Manukan Mulyo",
+    "name": "Toko Kopi Murni Fajar",
+    "opening_hours": "Mo-Su 06:00-12:00",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 7144614986,
+  "lat": -7.2487542,
+  "lon": 112.7364823,
+  "tags": {
+    "addr:housenumber": "144",
+    "addr:street": "Jalan Bubutan",
+    "name": "Toko Kopi cap Singa 1928",
+    "opening_hours": "Mo-Sa 08:00-16:00",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 7500274810,
+  "lat": -7.3131667,
+  "lon": 112.7870247,
+  "tags": {
+    "name": "Kopi Lain Hati",
+    "shop": "coffee"
+  }
+},
+{
+  "type": "node",
+  "id": 8001865488,
+  "lat": -7.3285630,
+  "lon": 112.6977753,
+  "tags": {
+    "addr:housenumber": "CD 17",
+    "addr:street": "Jalan Griya Kebraon Barat XIII",
+    "name": "Toko kopi  Barista ID",
+    "opening_hours": "Mo-Sa 09:00-18:00",
+    "shop": "variety_store"
+  }
+},
+{
+  "type": "node",
+  "id": 9813514786,
+  "lat": -7.2656732,
+  "lon": 112.7449129,
+  "tags": {
+    "building": "commercial",
+    "name": "Graha Bukopin Surabaya"
+  }
+},
+{
+  "type": "node",
+  "id": 9818883143,
+  "lat": -7.2491453,
+  "lon": 112.7556225,
+  "tags": {
+    "name": "Depot Jamu Cak Umar",
+    "shop": "herbalist"
+  }
+},
+{
+  "type": "node",
+  "id": 11733317793,
+  "lat": -7.2387175,
+  "lon": 112.7315593,
+  "tags": {
+    "addr:street": "Jalan Krembangan Kidul Gang V",
+    "name": "Toko kopi Subur",
+    "shop": "variety_store"
+  }
+},
+{
+  "type": "node",
+  "id": 11733317794,
+  "lat": -7.2411487,
+  "lon": 112.7330407,
+  "tags": {
+    "addr:housenumber": "12",
+    "addr:street": "Jalan Taman Kalongan",
+    "name": "Fotokopi Ady Sakti",
+    "opening_hours": "Mo-Sa 00:00-24:00; Su 09:00-16:00",
+    "shop": "copyshop"
+  }
+},
+{
+  "type": "node",
+  "id": 12833585980,
+  "lat": -7.2720498,
+  "lon": 112.7115597,
+  "tags": {
+    "description": "jl mustang  no 6 depan sd putat jaya",
+    "name": "kedai ambarASmara"
+  }
+},
+{
+  "type": "node",
+  "id": 12980202603,
+  "lat": -7.3529205,
+  "lon": 112.7206293,
+  "tags": {
+    "addr:postcode": "61256",
+    "addr:street": "Jl. Letjend Sutoyo No.58, Bungur, Medaeng, Kec. Waru, Kabupaten Sidoarjo, Jawa Timur",
+    "internet_access": "wlan",
+    "name": "Warkop Jagone Kopi",
+    "opening_hours": "24/7",
+    "shop": "coffee"
+  }
+},
+{
+  "type": "node",
+  "id": 12989587103,
+  "lat": -7.2859208,
+  "lon": 112.6981745,
+  "tags": {
+    "addr:postcode": "60189",
+    "addr:street": "Jl. Mayjen HR. Muhammad No.246, Putat Gede, Kec. Sukomanunggal, Surabaya, Jawa Timur",
+    "internet_access": "wlan",
+    "name": "\"STK\" Sedulur Tunggal Kopi",
+    "opening_hours": "24/7",
+    "shop": "coffee"
+  }
+},
+{
+  "type": "node",
+  "id": 13041317101,
+  "lat": -7.3125742,
+  "lon": 112.7060841,
+  "tags": {
+    "addr:postcode": "60229",
+    "addr:street": "Jl. Raya Menganti No.38, Jajar Tunggal, Kec. Wiyung, Surabaya, Jawa Timur",
+    "internet_access": "wlan",
+    "name": "Warkop Projo Anom",
+    "opening_hours": "24/7",
+    "shop": "coffee"
+  }
+},
+{
+  "type": "node",
+  "id": 13061465601,
+  "lat": -7.3109022,
+  "lon": 112.7108594,
+  "tags": {
+    "addr:postcode": "60229",
+    "addr:street": "Jl. Raya Mastrip No.179, RT.002/RW.02, Jajar Tunggal, Kec. Wiyung, Surabaya, Jawa Timur",
+    "internet_access": "wlan",
+    "name": "\"STK\" Sedulur Tunggal Kopi",
+    "opening_hours": "24/7",
+    "shop": "coffee"
+  }
+},
+{
+  "type": "node",
+  "id": 13158968001,
+  "lat": -7.2775799,
+  "lon": 112.7453616,
+  "tags": {
+    "addr:postcode": "60246",
+    "addr:street": "Jl. Ngagel No.3, RT.001/RW.04, Ngagel, Kec. Wonokromo, Surabaya, Jawa Timur",
+    "internet_access": "wlan",
+    "name": "Warkop Bening Naik Kelas",
+    "opening_hours": "24/7",
+    "shop": "coffee"
+  }
+},
+{
+  "type": "node",
+  "id": 13208310601,
+  "lat": -7.3000901,
+  "lon": 112.7311326,
+  "tags": {
+    "addr:postcode": "60242",
+    "addr:street": "Jl. Gunung Sari I No.21, Sawunggaling, Kec. Wonokromo, Surabaya, Jawa Timur",
+    "internet_access": "wlan",
+    "name": "Warkop Rizki",
+    "opening_hours": "Sa-Th 08:00-01:00; Fr 13:00-01:00",
+    "shop": "coffee"
+  }
+},
+{
+  "type": "node",
+  "id": 13243457501,
+  "lat": -7.3330515,
+  "lon": 112.7062878,
+  "tags": {
+    "addr:postcode": "60222",
+    "addr:street": "Jalan Raya Kemlaten No.25, Kebraon, Kec. Karangpilang, Surabaya, Jawa Timur",
+    "internet_access": "wlan",
+    "name": "Warkop Mastrip",
+    "opening_hours": "24/7",
+    "shop": "coffee"
+  }
+},
+{
+  "type": "node",
+  "id": 13542118501,
+  "lat": -7.2249445,
+  "lon": 112.7358731,
+  "tags": {
+    "addr:street": "Jalan Kebalen Timur",
+    "internet_access": "wlan",
+    "name": "Warkop Putri",
+    "shop": "coffee"
+  }
+},
+{
+  "type": "node",
+  "id": 13670991701,
+  "lat": -7.2273141,
+  "lon": 112.7358374,
+  "tags": {
+    "internet_access": "wlan",
+    "name": "Warkop Estrella",
+    "opening_hours": "24/7",
+    "shop": "coffee"
+  }
+},
+{
+  "type": "node",
+  "id": 13670991702,
+  "lat": -7.2247799,
+  "lon": 112.7358658,
+  "tags": {
+    "name": "Warkop Putri",
+    "opening_hours": "24/7",
+    "shop": "coffee"
+  }
+},
+{
+  "type": "node",
+  "id": 13706088902,
+  "lat": -7.2247063,
+  "lon": 112.7358375,
+  "tags": {
+    "addr:street": "Jalan Kalimas Baru",
+    "internet_access": "wlan",
+    "name": "Warkop Gading Mas",
+    "opening_hours": "24/7",
+    "shop": "coffee"
+  }
+},
+{
+  "type": "way",
+  "id": 36007554,
+  "center": {
+    "lat": -7.2933340,
+    "lon": 112.7549574
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Cafe Glass",
+    "shop": "kitchen"
+  }
+},
+{
+  "type": "way",
+  "id": 159894248,
+  "center": {
+    "lat": -7.3487516,
+    "lon": 112.7466435
+  },
+  "tags": {
+    "highway": "living_street",
+    "motorcycle": "yes",
+    "name": "Gang Kopi"
+  }
+},
+{
+  "type": "way",
+  "id": 198184771,
+  "center": {
+    "lat": -7.3015336,
+    "lon": 112.7639750
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Warkop BENTENG 40"
+  }
+},
+{
+  "type": "way",
+  "id": 311062308,
+  "center": {
+    "lat": -7.2681994,
+    "lon": 112.7399827
+  },
+  "tags": {
+    "building": "yes",
+    "building:roof": "tin",
+    "building:structure": "semi permanen",
+    "building:walls": "wood",
+    "name": "Warkop Pregolan"
+  }
+},
+{
+  "type": "way",
+  "id": 311062322,
+  "center": {
+    "lat": -7.2701180,
+    "lon": 112.7417827
+  },
+  "tags": {
+    "access:roof": "no",
+    "building": "yes",
+    "building:levels": "3",
+    "building:roof": "concrete",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "12",
+    "name": "kedai D'Basra"
+  }
+},
+{
+  "type": "way",
+  "id": 311062972,
+  "center": {
+    "lat": -7.2695624,
+    "lon": 112.7402310
+  },
+  "tags": {
+    "access:roof": "no",
+    "building": "yes",
+    "building:roof": "tin",
+    "building:walls": "wood",
+    "capacity:persons": "15",
+    "name": "depot barokah"
+  }
+},
+{
+  "type": "way",
+  "id": 311062973,
+  "center": {
+    "lat": -7.2696153,
+    "lon": 112.7402195
+  },
+  "tags": {
+    "access:roof": "no",
+    "building": "yes",
+    "building:roof": "tin",
+    "building:walls": "wood",
+    "capacity:persons": "15",
+    "name": "depot haji tarjo"
+  }
+},
+{
+  "type": "way",
+  "id": 311062974,
+  "center": {
+    "lat": -7.2696804,
+    "lon": 112.7402301
+  },
+  "tags": {
+    "access:roof": "no",
+    "building": "yes",
+    "building:roof": "asbestos",
+    "building:walls": "brick",
+    "capacity:persons": "10",
+    "name": "kedai karunia"
+  }
+},
+{
+  "type": "way",
+  "id": 311063098,
+  "center": {
+    "lat": -7.2695720,
+    "lon": 112.7403844
+  },
+  "tags": {
+    "building": "yes",
+    "building:roof": "tin",
+    "building:walls": "wood",
+    "capacity:persons": "15",
+    "name": "depot barokah"
+  }
+},
+{
+  "type": "way",
+  "id": 311063099,
+  "center": {
+    "lat": -7.2694616,
+    "lon": 112.7404328
+  },
+  "tags": {
+    "building": "yes",
+    "building:roof": "tin",
+    "building:walls": "wood",
+    "capacity:persons": "10",
+    "name": "depot suramadu"
+  }
+},
+{
+  "type": "way",
+  "id": 448081972,
+  "center": {
+    "lat": -7.2772402,
+    "lon": 112.7721519
+  },
+  "tags": {
+    "building": "yes",
+    "leisure": "sports_centre",
+    "name": "Strike Pool & Cafe",
+    "sport": "billiards"
+  }
+},
+{
+  "type": "way",
+  "id": 451811607,
+  "center": {
+    "lat": -7.3244521,
+    "lon": 112.7164917
+  },
+  "tags": {
+    "addr:city": "Surabaya",
+    "addr:housenumber": "99",
+    "addr:postcode": "60233",
+    "addr:street": "Jalan Kebonsari Elveka Barat",
+    "building": "yes",
+    "building:levels": "1",
+    "description": "https://pintujh.com/",
+    "image": "https://pintujh.com/",
+    "name": "Jasa Desain Interior dan Arsitek Rumah Cafe Hotel Kantor"
+  }
+},
+{
+  "type": "way",
+  "id": 452168370,
+  "center": {
+    "lat": -7.2191243,
+    "lon": 112.7323163
+  },
+  "tags": {
+    "addr:full": "jalan perak barat",
+    "amenity": "bank",
+    "building": "bank",
+    "building:condition": "good",
+    "building:floor": "ceramics",
+    "building:levels": "11",
+    "building:roof": "concrete",
+    "building:structure": "confined_masonry",
+    "building:walls": "glass",
+    "capacity:persons": "250-500",
+    "name": "Bank Bukopin"
+  }
+},
+{
+  "type": "way",
+  "id": 466544865,
+  "center": {
+    "lat": -7.2938654,
+    "lon": 112.7388274
+  },
+  "tags": {
+    "access:roof": "no",
+    "addr:full": "Jalan Darmo Nomor 136",
+    "amenity": "bank",
+    "building": "bank",
+    "building:condition": "good",
+    "building:floor": "ceramics",
+    "building:levels": "1",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "kurang dari 50",
+    "name": "Bank Bukopin Syariah"
+  }
+},
+{
+  "type": "way",
+  "id": 578696105,
+  "center": {
+    "lat": -7.2387435,
+    "lon": 112.7424294
+  },
+  "tags": {
+    "highway": "residential",
+    "lanes": "1",
+    "name": "Jalan Kopi",
+    "name:id": "Jalan Kopi",
+    "name:ms": "Jalan Kopi",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1123777549,
+  "center": {
+    "lat": -7.2386179,
+    "lon": 112.7413484
+  },
+  "tags": {
+    "highway": "residential",
+    "lanes": "1",
+    "name": "Jalan Kopi",
+    "name:id": "Jalan Kopi",
+    "name:ms": "Jalan Kopi",
+    "oneway:conditional": "yes @ (04:00-18:00)",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1523974971,
+  "center": {
+    "lat": -7.2684493,
+    "lon": 112.6633345
+  },
+  "tags": {
+    "addr:city": "Surabaya",
+    "addr:district": "Tandes",
+    "addr:postcode": "60185",
+    "addr:province": "Jawa Timur",
+    "addr:street": "Jalan Wonorejo",
+    "addr:subdistrict": "Manukan Kulon",
+    "building": "roof",
+    "name": "Warkop Pojok Pogher",
+    "opening_hours": "24/7",
+    "payment:cash": "yes",
+    "shop": "kiosk"
+  }
+}
+
+  ]
+}
